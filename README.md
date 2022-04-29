@@ -7,4 +7,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaanaydin&layout=compact&theme=onedark)](https://github.com/akaanaydin/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=HackerRank-Solutions-For-Swift&theme=onedark)](https://github.com/akaanaydin/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=ToDo-MVVM-CoreData&theme=onedark)](https://github.com/akaanaydin/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=LatestNews&theme=onedark)](https://github.com/akaanaydin/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=RickAndMortySwiftWithoutSB&theme=onedark)](https://github.com/akaanaydin/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=application_tracker&theme=onedark)](https://github.com/akaanaydin/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=Case-Sample-1&theme=onedark)](https://github.com/akaanaydin/github-readme-stats)
