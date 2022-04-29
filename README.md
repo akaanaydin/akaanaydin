@@ -1,9 +1,10 @@
-[![MasterHead](https://user-images.githubusercontent.com/44496296/165897364-4392397d-7791-42d8-9c25-a53a1ad78073.png)
-](https://github.com/akaanaydin)
+![MasterHead](https://user-images.githubusercontent.com/44496296/165902246-291dc442-20ba-4134-8076-7c445d360a99.png)
 
 - 🌱 I’m currently learning IOS Development
 - 📫 E-mail: aka.iosdev@gmail.com
 
 [![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaanaydin&show_icons=true&theme=onedark)](https://github.com/akaanaydin/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=github-readme-stats)](https://github.com/akaanaydin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaanaydin&layout=compact&theme=onedark)](https://github.com/akaanaydin/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=ToDo-MVVM-CoreData&theme=onedark)](https://github.com/akaanaydin/github-readme-stats)
