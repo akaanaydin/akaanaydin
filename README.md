@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/44496296/165967492-5f7b7c85-d723-4b2d-b7b6-4e407c400423.gif)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+![](https://komarev.com/ghpvc/?username=akaanaydin&color=orange)
 
 - 🌱 I’m currently learning IOS Development
 - 📫 E-mail: aka.iosdev@gmail.com
