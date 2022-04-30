@@ -24,9 +24,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="c" width="40" height="40"/>
 </p>
 
-[![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaanaydin&show_icons=true&theme=onedark)](https://github.com/akaanaydin/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akaanaydin&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF)](https://git.io/streak-stats)
-
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=HackerRank-Solutions-For-Swift&theme=onedark)](https://github.com/akaanaydin/HackerRank-Solutions-For-Swift)
