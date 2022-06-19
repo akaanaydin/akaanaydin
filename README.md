@@ -26,13 +26,14 @@
 
 
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=HackerRank-Solutions-For-Swift&theme=onedark)](https://github.com/akaanaydin/HackerRank-Solutions-For-Swift) -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=MobiliumProject&theme=onedark)](https://github.com/akaanaydin/MobiliumProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=ApsiyonFlix&theme=onedark)](https://github.com/akaanaydin/ApsiyonFlix)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=3gram&theme=onedark)](https://github.com/akaanaydin/3gram)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=ToDo-MVVM-CoreData&theme=onedark)](https://github.com/akaanaydin/ToDo-MVVM-CoreData)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=NewsApp-MVVM&theme=onedark)](https://github.com/akaanaydin/NewsApp-MVVM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=mp-mvvm-basic-movie-app&theme=onedark)](https://github.com/akaanaydin/mp-mvvm-basic-movie-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=MP1-MVC-Basic-App&theme=onedark)](https://github.com/akaanaydin/MP1-MVC-Basic-App)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaanaydin&repo=MP1-MVC-Basic-App&theme=onedark)](https://github.com/akaanaydin/MP1-MVC-Basic-App) -->
 
 
  
