@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=akaanaydin&color=orange)
 
-- 🌱 I’m currently learning IOS Development
+- 🌱 I'm currently developing IOS Apps
 - 📫 E-mail: aka.iosdev@gmail.com
 
 <h3 align="left">Connect with me:</h3>
